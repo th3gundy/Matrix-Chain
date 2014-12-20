@@ -10,4 +10,5 @@ Bu çarpmalar aşağıdaki parantezlemelerle gösterilen farklı öncelik sıral
 ABC matris çarpımı işleminin aşağıda görülen iki farklı sıra ile yapılması için gerekli işlem sayıları farklıdır.
 
 (AB)C = (10×30×5) + (10×5×60) = 1500 + 3000 = 4500 işlem
+
 A(BC) = (30×5×60) + (10×30×60) = 9000 + 18000 = 27000 işlem
